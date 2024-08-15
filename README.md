@@ -7,11 +7,11 @@ I'm Ildar Lukmanov.
 ## ⚡ About Me
 
 - 🔭 I’m currently working on [AI USM Genetic Editing Project](https://github.com/Lykman/genetic_editing_project) - A groundbreaking project focused on using AI and CRISPR-Cas9 technology for cancer treatment by targeting problematic genes associated with breast and prostate cancer.
-- 🌱 I’m currently learning advanced techniques in AI and Machine Learning
-- 👯 I’m looking to collaborate on innovative AI projects
+-  I’m currently learning advanced techniques in AI and Machine Learning
+-  I’m looking to collaborate on innovative AI projects
 - 💬 Ask me about AI, machine learning, and data analysis
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ildar-lukmanov) | [Email](mailto:lykmanov@gmail.com)
-- ⚡ Fun fact: I am passionate about creating AI solutions that solve real-world problems
+- ⚡ Fact: I am passionate about creating AI solutions that solve real-world problems
 
 ## 🚀 My Projects
 
