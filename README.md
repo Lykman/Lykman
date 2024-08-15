@@ -6,7 +6,7 @@ I'm Ildar Lukmanov.
 
 ## ⚡ About Me
 
-- 🔭 I’m currently working on [Tunnel Project Trade](https://github.com/Lykman/tunnel-project-trade)
+- 🔭 I’m currently working on [AI USM Genetic Editing Project](https://github.com/Lykman/genetic_editing_project) - A groundbreaking project focused on using AI and CRISPR-Cas9 technology for cancer treatment by targeting problematic genes associated with breast and prostate cancer.
 - 🌱 I’m currently learning advanced techniques in AI and Machine Learning
 - 👯 I’m looking to collaborate on innovative AI projects
 - 💬 Ask me about AI, machine learning, and data analysis
@@ -15,6 +15,7 @@ I'm Ildar Lukmanov.
 
 ## 🚀 My Projects
 
+- [AI USM Genetic Editing Project](https://github.com/Lykman/genetic_editing_project) - An AI-powered project aimed at revolutionizing cancer treatment through genetic editing techniques.
 - [Tunnel Project Trade](https://github.com/Lykman/tunnel-project-trade) - A project focused on price forecasting using HUMINT, GNSS, and Geospatial Intelligence
 - [AI-USM Telegram Bot](https://github.com/Lykman/AI-USM-tg) - AI-driven Telegram bot for currency, stock predictions, and news analysis
 
