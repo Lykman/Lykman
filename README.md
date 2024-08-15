@@ -2,6 +2,8 @@
 
 I'm Ildar Lukmanov.
 
+<img align="right" src="https://github.com/Lykman/Lykman/blob/main/AI_USM_AppIcon%20(%D1%84%D0%BE%D0%BD%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD).png" width="150"/>
+
 ## ⚡ About Me
 
 - 🔭 I’m currently working on [Tunnel Project Trade](https://github.com/Lykman/tunnel-project-trade)
